@@ -1,0 +1,29 @@
+.description-Container {
+  background-color: white;
+  align-items: center;
+  width: 30%;
+  height: 300px;
+  margin-top: -20%;
+  margin-left: 10%;
+  transform: translate(0, 0%);
+
+  border-radius: 4px;
+}
+
+.header-Container {
+  text-align: justify;
+  padding-left: 5px;
+  padding-right: 20px;
+}
+
+.body-Container {
+  text-align: justify;
+  padding-left: 5px;
+  padding-right: 20px;
+}
+
+.discover-More-Button {
+  text-align: justify;
+  padding-left: 5px;
+  padding-right: 20px;
+}

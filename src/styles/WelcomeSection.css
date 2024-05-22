@@ -1,0 +1,28 @@
+.welcomeSection-Container {
+  width: 100%;
+  margin-top: 10%;
+  height: 400px;
+}
+
+.text-Container {
+  width: 50%;
+  margin-left: 50%;
+  margin-top: -400px;
+  text-align: justify;
+}
+
+.welcomeSection-image-Container {
+  width: 50%;
+  height: 400px;
+}
+
+.img01 {
+  width: 60%;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+.img02 {
+  width: 40%;
+  margin-right: 200px;
+  margin-top: -40px;
+}

@@ -1,0 +1,89 @@
+.NewsSection-Container {
+  margin-top: 60px;
+
+  height: 600px;
+}
+
+.news-Container1 {
+  width: 40%;
+
+  height: 250px;
+  margin-left: 9%;
+  margin-top: 10px;
+}
+.news-Container2 {
+  width: 40%;
+
+  height: 250px;
+  margin-left: 51%;
+  margin-top: -250px;
+}
+
+.news-Container3 {
+  width: 40%;
+
+  height: 250px;
+  margin-left: 9%;
+  margin-top: 15px;
+}
+
+.news-Container4 {
+  width: 40%;
+  height: 250px;
+  margin-left: 51%;
+  margin-top: -250px;
+}
+
+.image-Section {
+  position: relative;
+  width: 50%;
+  height: 100%;
+}
+.texts-Section {
+  width: 50%;
+  height: 100%;
+
+  margin-left: 50%;
+  margin-top: -265px;
+  text-align: justify;
+}
+
+.newsImage {
+  width: 100%;
+
+  height: 250px;
+}
+
+.news-pharagraph {
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 11px;
+  margin-top: 3px;
+}
+
+.news-header {
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 15px;
+}
+
+.messege-icon {
+  padding: 5px;
+  font-size: 13px;
+  margin-top: -12px;
+}
+
+.messege-icon-icon {
+  color: #00c0e4;
+}
+
+.overlayImage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23%;
+
+  height: 50px;
+
+  color: white;
+}
